@@ -1,5 +1,6 @@
 # [Pokedex](https://youtu.be/dVtnFH4m_fE)
-Pokedex Coding Tutorial: https://youtu.be/dVtnFH4m_fE
+- Coding Tutorial: https://youtu.be/dVtnFH4m_fE
+- Demo: https://imkennyyip.github.io/Pokedex/
 
 In this tutorial, you will learn how to create a scrollable Pokedex using HTML, CSS, and Javascript, with data provided through a javascript API! https://pokeapi.co/
 
